@@ -8,7 +8,7 @@ body {
 
 body {
     background: rgb(195, 171, 34);
-    background: linear-gradient(0deg, rgba(195, 171, 34, 1) 0%, rgba(253, 187, 45, 1) 100%);
+    background: linear-gradient(blue, darkblue);
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin: auto;
