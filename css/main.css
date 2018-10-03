@@ -7,7 +7,7 @@ body {
 }
 
 body {
-    background: linear-gradient(yellow, lightgoldenrodyellow);
+    background: linear-gradient(yellow, orange);
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin: auto;
@@ -51,8 +51,7 @@ body {
 }
 
 .foot {
-    background: rgb(56, 110, 255);
-    background: linear-gradient(circle, rgba(56, 110, 255, 1) 0%, rgba(38, 159, 238, 1) 83%);
+    background: linear-gradient(blue, darkblue);
     color: white;
     display: grid;
     grid-auto-flow: column;
@@ -68,8 +67,7 @@ body {
 }
 
 .copy {
-    background: rgb(56, 110, 255);
-    background: linear-gradient(circle, rgba(56, 110, 255, 1) 0%, rgba(38, 159, 238, 1) 83%);
+    background: linear-gradient(blue, darkblue);
     margin: auto;
     padding: 1em;
     padding-right: 10%;
